@@ -1,0 +1,6 @@
+panel
+param
+osw
+uvicorn
+pandas
+olca-schema
